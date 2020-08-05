@@ -55,14 +55,16 @@ post_date: 2020-08-04 17:04:58
                   <div class="h-heading__outer style-209 style-local-75-c6">
                     <!---->
                     <!---->
-                    <h4 class="">Concerts</h4>
+                    <h4 class="">Travel </h4>
                   </div>
               </div>
               <div data-colibri-id="75-c7" class="h-text h-text-component style-210 style-local-75-c7 position-relative h-element">
                 <!---->
                 <!---->
                 <div class="">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                  <p>We are motivated like most who can’t get enough of taking a Long Way Round: for freedom, for opportunity, for a chance of new life. We are here to tell our stories with real elan to inspire you to roll out, risk and be on a trip you
+                    were looking for. An escape which makes you fill refreshed and gets you excited to start your day to day grid again, with new you. To the love of wind, you feel on your face &amp; for the love of blast, you feel in your head when you
+                    are riding on an open road or taking a deep breath on the top of some mountain or partying at the beach. To endlessly changing horizons and having a different sun every day. Cheers! Team Quo</p>
                 </div>
               </div>
               <div data-colibri-id="75-c8" class="h-x-container style-211 style-local-75-c8 position-relative h-element">
@@ -88,14 +90,20 @@ post_date: 2020-08-04 17:04:58
                 <div class="h-heading__outer style-209 style-local-75-c12">
                   <!---->
                   <!---->
-                  <h4 class="">Sports</h4>
+                  <h4 class="">Food </h4>
                 </div>
             </div>
             <div data-colibri-id="75-c13" class="h-text h-text-component style-210 style-local-75-c13 position-relative h-element">
               <!---->
               <!---->
               <div class="">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                <p>When you’re in the relationship with FOOD then you are never SINGLE. Correct us if we pass a verdict that there is no greater love than the “Love for food”. Even if you don’t have high-intensity taste licking tongue, our gastronomically-inclined
+                  food expedition is committed to take the food fanatics through a salivating experience with eye-candy pictures of sumptuous food and transform you into an ardent food lover even though you consider yourself a one. Our humble attempt
+                  with our pinch of culinary skills is at sharing food craft with our readers who will definitely find a lot of flavors in this space and above all food is not that choosy with its partner… a little bit of garnish and it is ready (Hope
+                  we make you drool :P).</p>
+                <p>
+                  <br>
+                </p>
               </div>
             </div>
             <div data-colibri-id="75-c14" class="h-x-container style-211 style-local-75-c14 position-relative h-element">
@@ -121,14 +129,17 @@ post_date: 2020-08-04 17:04:58
               <div class="h-heading__outer style-209 style-local-75-c18">
                 <!---->
                 <!---->
-                <h4 class="">Exhibitions</h4>
+                <h4 class="">Fashion </h4>
               </div>
           </div>
           <div data-colibri-id="75-c19" class="h-text h-text-component style-210 style-local-75-c19 position-relative h-element">
             <!---->
             <!---->
             <div class="">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+              <p>When you travel places you will find Fashion has always been a repetition of ideas...but what makes it new is the way one puts it together. After all we are always running around to bring into existence the style and our piece of writing
+                does that for you. Hence goes the name STYLE RUN We are not style experts and nor are we amateurs in creating any style statement but if you are a creek fashion stalker , here's some help on how to choose your muse in the virtual world.
+                For all you unapologetic fashion addicts out there, this is the steer on fashion who can give you a crash-course on anything stylish, from smart street fashion to elite ramp walk wardrobe, must-have accessories to hot shades to the trendy
+                lip colors and footwear trends. Just lay back with sipping your favorite brunette and let us re-make your each day a page in your fashion story. Feel the Panache !</p>
             </div>
           </div>
           <div data-colibri-id="75-c20" class="h-x-container style-211 style-local-75-c20 position-relative h-element">
@@ -154,7 +165,7 @@ post_date: 2020-08-04 17:04:58
             <div class="h-heading__outer style-209 style-local-75-c24">
               <!---->
               <!---->
-              <h4 class="">Seminars</h4>
+              <h4 class="">TEch</h4>
             </div>
         </div>
         <div data-colibri-id="75-c25" class="h-text h-text-component style-210 style-local-75-c25 position-relative h-element">
