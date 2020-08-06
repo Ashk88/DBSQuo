@@ -1,6 +1,6 @@
 ---
 ID: 80
-post_title: register-2
+post_title: registration
 author: ashwin
 post_excerpt: ""
 layout: page
