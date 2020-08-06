@@ -726,7 +726,7 @@ post_date: 2020-08-04 17:04:58
               <!---->
               <!---->
               <div class="">
-                <p>Company name</p>
+                <p>Wordpress</p>
               </div>
             </div>
           </div>
@@ -771,7 +771,7 @@ post_date: 2020-08-04 17:04:58
             <!---->
             <!---->
             <div class="">
-              <p>Company name</p>
+              <p>Events brite</p>
             </div>
           </div>
         </div>
@@ -816,7 +816,7 @@ post_date: 2020-08-04 17:04:58
           <!---->
           <!---->
           <div class="">
-            <p>Company name</p>
+            <p>Accenture</p>
           </div>
         </div>
       </div>
