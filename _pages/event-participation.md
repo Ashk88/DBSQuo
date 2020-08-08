@@ -14,5 +14,5 @@ post_date: 2020-08-06 18:23:48
 						Previous
 						Next
 			<a href="#" role="button">
-						Participate now in our events
+						Subscribe to participate in our events
 					</a>
