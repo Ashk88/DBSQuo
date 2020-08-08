@@ -5,7 +5,7 @@ author: ashwin
 post_excerpt: ""
 layout: page
 permalink: >
-  https://ashwin.dbsprojects.ie/wordpress/quo-life/
+  https://ashwin.dbsprojects.ie/wordpress/?page_id=36
 published: true
 post_date: 2020-08-04 16:54:46
 ---

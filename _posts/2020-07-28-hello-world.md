@@ -5,7 +5,7 @@ author: ashwin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://ashwin.dbsprojects.ie/wordpress/hello-world/
+  https://ashwin.dbsprojects.ie/wordpress/?p=1
 published: true
 post_date: 2020-07-28 12:35:23
 ---

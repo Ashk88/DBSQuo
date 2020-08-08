@@ -5,7 +5,7 @@ author: ashwin
 post_excerpt: ""
 layout: page
 permalink: >
-  https://ashwin.dbsprojects.ie/wordpress/products/
+  https://ashwin.dbsprojects.ie/wordpress/?page_id=18
 published: true
 post_date: 2020-07-28 13:33:19
 ---
