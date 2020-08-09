@@ -20,6 +20,7 @@ post_date: 2020-08-06 18:23:48
 <figure></figure>
 Previous
 Next
-<a role="button">
 
-</a>
+&nbsp;
+<pre><code>[wp_paypal button="subscribe" name="My product" a3="1.00" p3="1" t3="M" src="1"]</code></pre>
+&nbsp;
